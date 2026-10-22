@@ -1,5 +1,7 @@
 # quiz-game
 
+注：管理页面在 `/manage` 路由下。
+
 本项目使用 Svelte.js + SvelteKit + shadcn-svelte 组件库，而非课程目前要求的 Vue.js 2 。
 
 ...至少这说明我有自己的学习和理解而不是照抄的？  
