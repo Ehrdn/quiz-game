@@ -78,3 +78,15 @@
     </div>
 {/if}
 
+
+
+<style>
+:global(body) {
+    background-color: #f9f9f9;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+</style>
